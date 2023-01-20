@@ -1,1 +1,1 @@
-# akgorithm
+# algorithm
